@@ -1,2 +1,2 @@
 # Transmission-rc-sharp
-transmission remote client
+gtk# remote client for transmission deamon
